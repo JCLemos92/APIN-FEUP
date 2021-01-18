@@ -4,6 +4,7 @@
 
 ### Grupo:
 Duarte Manuel Marques Mano Menezes Frazão - 201605658
+
 Fábio Manuel Neves de Araújo - 201607944
 Francisco Teixeira Ferreira - 201605660
 João Carlos Fonseca Pina de Lemos - 201000660
