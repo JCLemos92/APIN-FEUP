@@ -6,9 +6,13 @@
 Duarte Manuel Marques Mano Menezes Frazão - 201605658
 
 Fábio Manuel Neves de Araújo - 201607944
+
 Francisco Teixeira Ferreira - 201605660
+
 João Carlos Fonseca Pina de Lemos - 201000660
+
 João Miguel Vaz Tello da Gama Amaral - 201708805
+
 João Nuno Rodrigues Ferreira - 201605330
 
 ### Estrutura do repositório
